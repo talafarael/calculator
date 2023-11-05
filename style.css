@@ -1,0 +1,22 @@
+.section{
+    height:100vh;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    gap:5px;
+}
+.mathexample{
+    font-size:30px;
+    align-self: center;
+}
+.input{
+    height:30px;
+}
+.score{
+    align-self: center;
+}
